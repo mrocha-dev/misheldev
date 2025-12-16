@@ -6,7 +6,7 @@
 📚 Aprendendo: Python | C | SQL | Lógica de Programação | Modelagem de Sistemas  
 🌱 Explorando projetos em back-end, banco de dados e APIs  
 🚀 Participante de projetos acadêmicos como o SportSpace e grupos como RobCod e Computação Quântica  
-📍 Local: Matozinhos/MG – Brasil  
+📍 Local: Belo Horizonte/MG – Brasil  
 
 ---
 
